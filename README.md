@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/ISankrityayan/Code/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/ISankrityayan/Code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ISankrityayan/Code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0436-find-right-interval](https://github.com/ISankrityayan/Code/tree/master/0436-find-right-interval) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ISankrityayan/Code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ISankrityayan/Code/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/ISankrityayan/Code/tree/master/0792-binary-search) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/ISankrityayan/Code/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/ISankrityayan/Code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ISankrityayan/Code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0436-find-right-interval](https://github.com/ISankrityayan/Code/tree/master/0436-find-right-interval) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ISankrityayan/Code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ISankrityayan/Code/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/ISankrityayan/Code/tree/master/0792-binary-search) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/ISankrityayan/Code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ISankrityayan/Code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0436-find-right-interval](https://github.com/ISankrityayan/Code/tree/master/0436-find-right-interval) |
 | [0924-fair-candy-swap](https://github.com/ISankrityayan/Code/tree/master/0924-fair-candy-swap) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ISankrityayan/Code/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/ISankrityayan/Code/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
