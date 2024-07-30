@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ISankrityayan/Code/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/ISankrityayan/Code/tree/master/1646-kth-missing-positive-number) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/ISankrityayan/Code/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/ISankrityayan/Code/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 ## Matrix
 |  |
 | ------- |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0755-reach-a-number](https://github.com/ISankrityayan/Code/tree/master/0755-reach-a-number) |
+## Greedy
+|  |
+| ------- |
+| [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/ISankrityayan/Code/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 <!---LeetCode Topics End-->
