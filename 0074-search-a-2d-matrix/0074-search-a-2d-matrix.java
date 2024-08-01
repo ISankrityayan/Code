@@ -41,6 +41,9 @@ class Solution {
         if (rStart > 0 && BinarySearch(matrix, rStart - 1, 0, cols - 1, target)) {
             return true;
         }
+         if (rStart < rows - 1 && BinarySearch(matrix, rStart + 1, 0, cols - 1, target)) {
+            return true;
+        }
 
         return false;
     }
