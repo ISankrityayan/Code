@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ISankrityayan/Code/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ISankrityayan/Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ISankrityayan/Code/tree/master/0162-find-peak-element) |
+| [0287-find-the-duplicate-number](https://github.com/ISankrityayan/Code/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ISankrityayan/Code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ISankrityayan/Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0436-find-right-interval](https://github.com/ISankrityayan/Code/tree/master/0436-find-right-interval) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ISankrityayan/Code/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ISankrityayan/Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ISankrityayan/Code/tree/master/0162-find-peak-element) |
+| [0287-find-the-duplicate-number](https://github.com/ISankrityayan/Code/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ISankrityayan/Code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ISankrityayan/Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0436-find-right-interval](https://github.com/ISankrityayan/Code/tree/master/0436-find-right-interval) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/ISankrityayan/Code/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ISankrityayan/Code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ISankrityayan/Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ISankrityayan/Code/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -104,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ISankrityayan/Code/tree/master/1966-frequency-of-the-most-frequent-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/ISankrityayan/Code/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
