@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/ISankrityayan/Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/ISankrityayan/Code/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/ISankrityayan/Code/tree/master/0436-find-right-interval) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ISankrityayan/Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ISankrityayan/Code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ISankrityayan/Code/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/ISankrityayan/Code/tree/master/0792-binary-search) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ISankrityayan/Code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ISankrityayan/Code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ISankrityayan/Code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ISankrityayan/Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0924-fair-candy-swap](https://github.com/ISankrityayan/Code/tree/master/0924-fair-candy-swap) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ISankrityayan/Code/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Two Pointers
