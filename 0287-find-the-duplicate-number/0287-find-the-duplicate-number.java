@@ -1,24 +1,30 @@
 class Solution {
-    public int findDuplicate(int[] nums) { 
-    /*
-    Hare and Tortoise approach
-    */
-        int slow=nums[0];
-        int fast=nums[0];
+    public int findDuplicate(int[] nums) {
+        int start=0;
+        while(start<nums.length){
+            if(nums[start]!=start+1){
+                int correct=nums[start]-1;
+            if(nums[start]!=nums[correct] ){
+                swapArray(nums,start,correct);
+            }
+            else{
+               return nums[start];
+            }
 
-        do{
-            slow=nums[slow];
-            fast=nums[nums[fast]];
-
-        }while((slow!=fast));
-
-        fast=nums[0];
-        while(slow!=fast){
-            slow=nums[slow];
-            fast=nums[fast];
+            }
+            else{
+                start++;
+            }
+            
         }
 
-        return fast;
+        return -1;
+       
+    }
 
+      public void swapArray(int[]arr,int first,int second){
+        int temp= arr[first];
+        arr[first]=arr[second];
+        arr[second]=temp;
     }
 }
