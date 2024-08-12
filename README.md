@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/ISankrityayan/Code/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/ISankrityayan/Code/tree/master/0958-sort-array-by-parity-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/ISankrityayan/Code/tree/master/1018-largest-perimeter-triangle) |
+| [1019-squares-of-a-sorted-array](https://github.com/ISankrityayan/Code/tree/master/1019-squares-of-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ISankrityayan/Code/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ISankrityayan/Code/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ISankrityayan/Code/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ISankrityayan/Code/tree/master/0455-assign-cookies) |
 | [0941-sort-array-by-parity](https://github.com/ISankrityayan/Code/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/ISankrityayan/Code/tree/master/0958-sort-array-by-parity-ii) |
+| [1019-squares-of-a-sorted-array](https://github.com/ISankrityayan/Code/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ISankrityayan/Code/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/ISankrityayan/Code/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/ISankrityayan/Code/tree/master/0958-sort-array-by-parity-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/ISankrityayan/Code/tree/master/1018-largest-perimeter-triangle) |
+| [1019-squares-of-a-sorted-array](https://github.com/ISankrityayan/Code/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ISankrityayan/Code/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/ISankrityayan/Code/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1946-minimum-absolute-sum-difference](https://github.com/ISankrityayan/Code/tree/master/1946-minimum-absolute-sum-difference) |
