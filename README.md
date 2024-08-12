@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-fair-candy-swap](https://github.com/ISankrityayan/Code/tree/master/0924-fair-candy-swap) |
 | [0941-sort-array-by-parity](https://github.com/ISankrityayan/Code/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/ISankrityayan/Code/tree/master/0958-sort-array-by-parity-ii) |
+| [1018-largest-perimeter-triangle](https://github.com/ISankrityayan/Code/tree/master/1018-largest-perimeter-triangle) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ISankrityayan/Code/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ISankrityayan/Code/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ISankrityayan/Code/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-fair-candy-swap](https://github.com/ISankrityayan/Code/tree/master/0924-fair-candy-swap) |
 | [0941-sort-array-by-parity](https://github.com/ISankrityayan/Code/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/ISankrityayan/Code/tree/master/0958-sort-array-by-parity-ii) |
+| [1018-largest-perimeter-triangle](https://github.com/ISankrityayan/Code/tree/master/1018-largest-perimeter-triangle) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ISankrityayan/Code/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/ISankrityayan/Code/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1946-minimum-absolute-sum-difference](https://github.com/ISankrityayan/Code/tree/master/1946-minimum-absolute-sum-difference) |
@@ -132,11 +134,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ISankrityayan/Code/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ISankrityayan/Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0755-reach-a-number](https://github.com/ISankrityayan/Code/tree/master/0755-reach-a-number) |
+| [1018-largest-perimeter-triangle](https://github.com/ISankrityayan/Code/tree/master/1018-largest-perimeter-triangle) |
 ## Greedy
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/ISankrityayan/Code/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/ISankrityayan/Code/tree/master/0455-assign-cookies) |
+| [1018-largest-perimeter-triangle](https://github.com/ISankrityayan/Code/tree/master/1018-largest-perimeter-triangle) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/ISankrityayan/Code/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ISankrityayan/Code/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Ordered Set
