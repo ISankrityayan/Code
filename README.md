@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ISankrityayan/Code/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1094-matrix-cells-in-distance-order](https://github.com/ISankrityayan/Code/tree/master/1094-matrix-cells-in-distance-order) |
 | [1137-height-checker](https://github.com/ISankrityayan/Code/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/ISankrityayan/Code/tree/master/1217-relative-sort-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ISankrityayan/Code/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ISankrityayan/Code/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/ISankrityayan/Code/tree/master/1646-kth-missing-positive-number) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ISankrityayan/Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/ISankrityayan/Code/tree/master/0645-set-mismatch) |
 | [0924-fair-candy-swap](https://github.com/ISankrityayan/Code/tree/master/0924-fair-candy-swap) |
+| [1217-relative-sort-array](https://github.com/ISankrityayan/Code/tree/master/1217-relative-sort-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ISankrityayan/Code/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Two Pointers
 |  |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/ISankrityayan/Code/tree/master/1019-squares-of-a-sorted-array) |
 | [1094-matrix-cells-in-distance-order](https://github.com/ISankrityayan/Code/tree/master/1094-matrix-cells-in-distance-order) |
 | [1137-height-checker](https://github.com/ISankrityayan/Code/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/ISankrityayan/Code/tree/master/1217-relative-sort-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ISankrityayan/Code/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/ISankrityayan/Code/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1946-minimum-absolute-sum-difference](https://github.com/ISankrityayan/Code/tree/master/1946-minimum-absolute-sum-difference) |
@@ -187,4 +190,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/ISankrityayan/Code/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/ISankrityayan/Code/tree/master/1217-relative-sort-array) |
 <!---LeetCode Topics End-->
