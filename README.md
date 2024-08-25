@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1946-minimum-absolute-sum-difference](https://github.com/ISankrityayan/Code/tree/master/1946-minimum-absolute-sum-difference) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ISankrityayan/Code/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2047-find-a-peak-element-ii](https://github.com/ISankrityayan/Code/tree/master/2047-find-a-peak-element-ii) |
+| [2058-concatenation-of-array](https://github.com/ISankrityayan/Code/tree/master/2058-concatenation-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -222,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ISankrityayan/Code/tree/master/0049-group-anagrams) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/ISankrityayan/Code/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
