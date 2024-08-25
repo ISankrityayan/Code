@@ -5,7 +5,7 @@ class Solution {
         int j=n;
         int k=0;
 
-        while(j<nums.length){
+        while(i<n){
             ans[k]=nums[i];
             i++;
             k++;
