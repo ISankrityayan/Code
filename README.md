@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/ISankrityayan/Code/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ISankrityayan/Code/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ISankrityayan/Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1505-create-target-array-in-the-given-order](https://github.com/ISankrityayan/Code/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ISankrityayan/Code/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ISankrityayan/Code/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/ISankrityayan/Code/tree/master/1580-shuffle-the-array) |
@@ -236,5 +237,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1505-create-target-array-in-the-given-order](https://github.com/ISankrityayan/Code/tree/master/1505-create-target-array-in-the-given-order) |
 | [2058-concatenation-of-array](https://github.com/ISankrityayan/Code/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
