@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/ISankrityayan/Code/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1603-running-sum-of-1d-array](https://github.com/ISankrityayan/Code/tree/master/1603-running-sum-of-1d-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/ISankrityayan/Code/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1635-number-of-good-pairs](https://github.com/ISankrityayan/Code/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/ISankrityayan/Code/tree/master/1646-kth-missing-positive-number) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/ISankrityayan/Code/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1791-richest-customer-wealth](https://github.com/ISankrityayan/Code/tree/master/1791-richest-customer-wealth) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/ISankrityayan/Code/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ISankrityayan/Code/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ISankrityayan/Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1635-number-of-good-pairs](https://github.com/ISankrityayan/Code/tree/master/1635-number-of-good-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0755-reach-a-number](https://github.com/ISankrityayan/Code/tree/master/0755-reach-a-number) |
 | [1018-largest-perimeter-triangle](https://github.com/ISankrityayan/Code/tree/master/1018-largest-perimeter-triangle) |
 | [1094-matrix-cells-in-distance-order](https://github.com/ISankrityayan/Code/tree/master/1094-matrix-cells-in-distance-order) |
+| [1635-number-of-good-pairs](https://github.com/ISankrityayan/Code/tree/master/1635-number-of-good-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/ISankrityayan/Code/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/ISankrityayan/Code/tree/master/1217-relative-sort-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ISankrityayan/Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1635-number-of-good-pairs](https://github.com/ISankrityayan/Code/tree/master/1635-number-of-good-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
