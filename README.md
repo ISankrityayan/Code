@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/ISankrityayan/Code/tree/master/0645-set-mismatch) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ISankrityayan/Code/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/ISankrityayan/Code/tree/master/0792-binary-search) |
+| [0861-flipping-an-image](https://github.com/ISankrityayan/Code/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ISankrityayan/Code/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/ISankrityayan/Code/tree/master/0907-koko-eating-bananas) |
 | [0924-fair-candy-swap](https://github.com/ISankrityayan/Code/tree/master/0924-fair-candy-swap) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ISankrityayan/Code/tree/master/0074-search-a-2d-matrix) |
+| [0861-flipping-an-image](https://github.com/ISankrityayan/Code/tree/master/0861-flipping-an-image) |
 | [1094-matrix-cells-in-distance-order](https://github.com/ISankrityayan/Code/tree/master/1094-matrix-cells-in-distance-order) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ISankrityayan/Code/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/ISankrityayan/Code/tree/master/1791-richest-customer-wealth) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ISankrityayan/Code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ISankrityayan/Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/ISankrityayan/Code/tree/master/0455-assign-cookies) |
+| [0861-flipping-an-image](https://github.com/ISankrityayan/Code/tree/master/0861-flipping-an-image) |
 | [0941-sort-array-by-parity](https://github.com/ISankrityayan/Code/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/ISankrityayan/Code/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/ISankrityayan/Code/tree/master/1019-squares-of-a-sorted-array) |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ISankrityayan/Code/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ISankrityayan/Code/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/ISankrityayan/Code/tree/master/0645-set-mismatch) |
+| [0861-flipping-an-image](https://github.com/ISankrityayan/Code/tree/master/0861-flipping-an-image) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -243,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0861-flipping-an-image](https://github.com/ISankrityayan/Code/tree/master/0861-flipping-an-image) |
 | [1505-create-target-array-in-the-given-order](https://github.com/ISankrityayan/Code/tree/master/1505-create-target-array-in-the-given-order) |
 | [2058-concatenation-of-array](https://github.com/ISankrityayan/Code/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
