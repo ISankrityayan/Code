@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/ISankrityayan/Code/tree/master/0958-sort-array-by-parity-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/ISankrityayan/Code/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/ISankrityayan/Code/tree/master/1019-squares-of-a-sorted-array) |
+| [1031-add-to-array-form-of-integer](https://github.com/ISankrityayan/Code/tree/master/1031-add-to-array-form-of-integer) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ISankrityayan/Code/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1094-matrix-cells-in-distance-order](https://github.com/ISankrityayan/Code/tree/master/1094-matrix-cells-in-distance-order) |
 | [1137-height-checker](https://github.com/ISankrityayan/Code/tree/master/1137-height-checker) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/ISankrityayan/Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0755-reach-a-number](https://github.com/ISankrityayan/Code/tree/master/0755-reach-a-number) |
 | [1018-largest-perimeter-triangle](https://github.com/ISankrityayan/Code/tree/master/1018-largest-perimeter-triangle) |
+| [1031-add-to-array-form-of-integer](https://github.com/ISankrityayan/Code/tree/master/1031-add-to-array-form-of-integer) |
 | [1094-matrix-cells-in-distance-order](https://github.com/ISankrityayan/Code/tree/master/1094-matrix-cells-in-distance-order) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/ISankrityayan/Code/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1635-number-of-good-pairs](https://github.com/ISankrityayan/Code/tree/master/1635-number-of-good-pairs) |
