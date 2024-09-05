@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-count-items-matching-a-rule](https://github.com/ISankrityayan/Code/tree/master/1899-count-items-matching-a-rule) |
 | [1946-minimum-absolute-sum-difference](https://github.com/ISankrityayan/Code/tree/master/1946-minimum-absolute-sum-difference) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ISankrityayan/Code/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1983-maximum-population-year](https://github.com/ISankrityayan/Code/tree/master/1983-maximum-population-year) |
 | [2047-find-a-peak-element-ii](https://github.com/ISankrityayan/Code/tree/master/2047-find-a-peak-element-ii) |
 | [2058-concatenation-of-array](https://github.com/ISankrityayan/Code/tree/master/2058-concatenation-of-array) |
 ## Binary Search
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/ISankrityayan/Code/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/ISankrityayan/Code/tree/master/1833-find-the-highest-altitude) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ISankrityayan/Code/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1983-maximum-population-year](https://github.com/ISankrityayan/Code/tree/master/1983-maximum-population-year) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/ISankrityayan/Code/tree/master/1217-relative-sort-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ISankrityayan/Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/ISankrityayan/Code/tree/master/1635-number-of-good-pairs) |
+| [1983-maximum-population-year](https://github.com/ISankrityayan/Code/tree/master/1983-maximum-population-year) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
