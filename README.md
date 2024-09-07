@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ISankrityayan/Code/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/ISankrityayan/Code/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/ISankrityayan/Code/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/ISankrityayan/Code/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/ISankrityayan/Code/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ISankrityayan/Code/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ISankrityayan/Code/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -235,9 +236,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ISankrityayan/Code/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/ISankrityayan/Code/tree/master/0053-maximum-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ISankrityayan/Code/tree/master/0053-maximum-subarray) |
 | [0410-split-array-largest-sum](https://github.com/ISankrityayan/Code/tree/master/0410-split-array-largest-sum) |
 ## Geometry
 |  |
