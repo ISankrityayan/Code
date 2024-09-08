@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ISankrityayan/Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/ISankrityayan/Code/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ISankrityayan/Code/tree/master/0540-single-element-in-a-sorted-array) |
+| [0566-reshape-the-matrix](https://github.com/ISankrityayan/Code/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ISankrityayan/Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/ISankrityayan/Code/tree/master/0645-set-mismatch) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ISankrityayan/Code/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ISankrityayan/Code/tree/master/0074-search-a-2d-matrix) |
+| [0566-reshape-the-matrix](https://github.com/ISankrityayan/Code/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/ISankrityayan/Code/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/ISankrityayan/Code/tree/master/0898-transpose-matrix) |
 | [1094-matrix-cells-in-distance-order](https://github.com/ISankrityayan/Code/tree/master/1094-matrix-cells-in-distance-order) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/ISankrityayan/Code/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/ISankrityayan/Code/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/ISankrityayan/Code/tree/master/0898-transpose-matrix) |
 | [0906-walking-robot-simulation](https://github.com/ISankrityayan/Code/tree/master/0906-walking-robot-simulation) |
