@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ISankrityayan/Code/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ISankrityayan/Code/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ISankrityayan/Code/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/ISankrityayan/Code/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/ISankrityayan/Code/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/ISankrityayan/Code/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ISankrityayan/Code/tree/master/0073-set-matrix-zeroes) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ISankrityayan/Code/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/ISankrityayan/Code/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/ISankrityayan/Code/tree/master/0455-assign-cookies) |
 | [1018-largest-perimeter-triangle](https://github.com/ISankrityayan/Code/tree/master/1018-largest-perimeter-triangle) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ISankrityayan/Code/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/ISankrityayan/Code/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/ISankrityayan/Code/tree/master/0410-split-array-largest-sum) |
 ## Geometry
 |  |
