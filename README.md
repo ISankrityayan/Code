@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/ISankrityayan/Code/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1635-number-of-good-pairs](https://github.com/ISankrityayan/Code/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/ISankrityayan/Code/tree/master/1646-kth-missing-positive-number) |
+| [1651-shuffle-string](https://github.com/ISankrityayan/Code/tree/master/1651-shuffle-string) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/ISankrityayan/Code/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1791-richest-customer-wealth](https://github.com/ISankrityayan/Code/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/ISankrityayan/Code/tree/master/1833-find-the-highest-altitude) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/ISankrityayan/Code/tree/master/0049-group-anagrams) |
 | [1205-defanging-an-ip-address](https://github.com/ISankrityayan/Code/tree/master/1205-defanging-an-ip-address) |
+| [1651-shuffle-string](https://github.com/ISankrityayan/Code/tree/master/1651-shuffle-string) |
 | [1899-count-items-matching-a-rule](https://github.com/ISankrityayan/Code/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ISankrityayan/Code/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Simulation
