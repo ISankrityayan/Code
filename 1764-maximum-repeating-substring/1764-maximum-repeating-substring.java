@@ -1,20 +1,16 @@
 class Solution {
     public int maxRepeating(String sequence, String word) {
-        int count=0,beg=0;
-        String wordToFind=word;
-
-
-        while(true){
-            int idx=sequence.substring(beg).indexOf(wordToFind);
-            if(idx==-1){
+        int count = 0;
+        String wordToFind = word;
+        
+        while (true) {
+            int idx = sequence.indexOf(wordToFind);
+            if (idx == -1) {
                 return count;
-            }
-            else{
+            } else {
                 count++;
-                wordToFind+=word;
-                beg=idx;
+                wordToFind += word;  // Build the next repeated version of the word
             }
         }
-        
     }
 }
