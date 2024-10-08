@@ -1,21 +1,23 @@
 class Solution {
     public boolean isValid(String s) {
-        Stack<Character> stack = new Stack<>();
-        Map<Character, Character> map = new HashMap<>();
-        map.put(')', '(');
-        map.put('}', '{');
-        map.put(']', '[');
-
+        Deque<Character> stack = new ArrayDeque<>();
+        
         for (char c : s.toCharArray()) {
-            if (map.containsValue(c)) {
+            // Push opening brackets onto the stack
+            if (c == '(' || c == '{' || c == '[') {
                 stack.push(c);
-            } else if (map.containsKey(c)) {
-                if (stack.isEmpty() || map.get(c) != stack.pop()) {
-                    return false;
-                }
+            }
+            // For closing brackets, check if they match the top of the stack
+            else if (c == ')' && (stack.isEmpty() || stack.pop() != '(')) {
+                return false;
+            } else if (c == '}' && (stack.isEmpty() || stack.pop() != '{')) {
+                return false;
+            } else if (c == ']' && (stack.isEmpty() || stack.pop() != '[')) {
+                return false;
             }
         }
 
-        return stack.isEmpty();        
+        // The stack should be empty if all opening brackets were properly closed
+        return stack.isEmpty();
     }
 }
