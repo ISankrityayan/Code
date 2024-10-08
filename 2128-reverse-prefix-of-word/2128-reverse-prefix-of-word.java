@@ -1,10 +1,17 @@
 class Solution {
     public String reversePrefix(String word, char ch) {
-        int prefix=word.indexOf(ch);
-        if(prefix==-1){
+        int prefixIndex = word.indexOf(ch);
+        
+        // If ch is not found, return the original word
+        if (prefixIndex == -1) {
             return word;
         }
-        StringBuilder rev=new StringBuilder(word.substring(0,prefix+1));
-        return rev.reverse().toString() + word.substring(prefix + 1);
+        
+        // Reverse the prefix using StringBuilder
+        StringBuilder reversedPrefix = new StringBuilder(word.substring(0, prefixIndex + 1));
+        reversedPrefix.reverse();
+        
+        // Combine reversed prefix with the rest of the string
+        return reversedPrefix.toString() + word.substring(prefixIndex + 1);
     }
 }
