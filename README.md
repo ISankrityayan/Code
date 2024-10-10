@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-long-pressed-name](https://github.com/ISankrityayan/Code/tree/master/0961-long-pressed-name) |
 | [1019-squares-of-a-sorted-array](https://github.com/ISankrityayan/Code/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ISankrityayan/Code/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1739-split-two-strings-to-make-palindrome](https://github.com/ISankrityayan/Code/tree/master/1739-split-two-strings-to-make-palindrome) |
 | [1894-merge-strings-alternately](https://github.com/ISankrityayan/Code/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/ISankrityayan/Code/tree/master/2128-reverse-prefix-of-word) |
 ## Sorting
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/ISankrityayan/Code/tree/master/1205-defanging-an-ip-address) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/ISankrityayan/Code/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1651-shuffle-string](https://github.com/ISankrityayan/Code/tree/master/1651-shuffle-string) |
+| [1739-split-two-strings-to-make-palindrome](https://github.com/ISankrityayan/Code/tree/master/1739-split-two-strings-to-make-palindrome) |
 | [1764-maximum-repeating-substring](https://github.com/ISankrityayan/Code/tree/master/1764-maximum-repeating-substring) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ISankrityayan/Code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/ISankrityayan/Code/tree/master/1797-goal-parser-interpretation) |
