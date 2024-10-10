@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/ISankrityayan/Code/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/ISankrityayan/Code/tree/master/1833-find-the-highest-altitude) |
 | [1899-count-items-matching-a-rule](https://github.com/ISankrityayan/Code/tree/master/1899-count-items-matching-a-rule) |
+| [1923-sentence-similarity-iii](https://github.com/ISankrityayan/Code/tree/master/1923-sentence-similarity-iii) |
 | [1946-minimum-absolute-sum-difference](https://github.com/ISankrityayan/Code/tree/master/1946-minimum-absolute-sum-difference) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ISankrityayan/Code/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1983-maximum-population-year](https://github.com/ISankrityayan/Code/tree/master/1983-maximum-population-year) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/ISankrityayan/Code/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1739-split-two-strings-to-make-palindrome](https://github.com/ISankrityayan/Code/tree/master/1739-split-two-strings-to-make-palindrome) |
 | [1894-merge-strings-alternately](https://github.com/ISankrityayan/Code/tree/master/1894-merge-strings-alternately) |
+| [1923-sentence-similarity-iii](https://github.com/ISankrityayan/Code/tree/master/1923-sentence-similarity-iii) |
 | [2128-reverse-prefix-of-word](https://github.com/ISankrityayan/Code/tree/master/2128-reverse-prefix-of-word) |
 ## Sorting
 |  |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/ISankrityayan/Code/tree/master/1894-merge-strings-alternately) |
 | [1899-count-items-matching-a-rule](https://github.com/ISankrityayan/Code/tree/master/1899-count-items-matching-a-rule) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/ISankrityayan/Code/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1923-sentence-similarity-iii](https://github.com/ISankrityayan/Code/tree/master/1923-sentence-similarity-iii) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ISankrityayan/Code/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/ISankrityayan/Code/tree/master/1970-sorting-the-sentence) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ISankrityayan/Code/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
