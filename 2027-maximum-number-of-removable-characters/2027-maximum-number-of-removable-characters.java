@@ -1,39 +1,28 @@
 class Solution {
-   public int maximumRemovals(String s, String p, int[] rem) {
-    int left = 0, right = rem.length;
-    int[] removalOrder = new int[s.length()];
-    
-    // Marking positions of characters to be removed at each step
-    for (int i = 0; i < rem.length; i++) {
-        removalOrder[rem[i]] = i + 1;
-    }
-    
-    // Binary search to find the maximum number of removals
-    while (left < right) {
-        int mid = (left + right + 1) / 2;
-        if (isSubsequenceAfterRemovals(s, p, removalOrder, mid)) {
-            left = mid;  // Try more removals
-        } else {
-            right = mid - 1;  // Fewer removals
-        }
-    }
-    
-    return left;
-}
-
-private boolean isSubsequenceAfterRemovals(String s, String p, int[] removalOrder, int maxRemovals) {
-    int j = 0;  // Pointer for `p`
-    
-    for (int i = 0; i < s.length() && j < p.length(); i++) {
-        // Check if character at `i` in `s` is not removed yet
-        if (removalOrder[i] == 0 || removalOrder[i] > maxRemovals) {
-            if (s.charAt(i) == p.charAt(j)) {
-                j++;  // Move to the next character in `p`
+    public int maximumRemovals(String s, String p, int[] removable) {
+        int low = 1, high = removable.length, pivot;
+        while (low <= high) {
+            pivot = low + (high - low) / 2;
+            if (isASubsequenceAfterRemoving(s.toCharArray(), p.toCharArray(), removable, pivot)) {
+                low = pivot + 1;
+            } else {
+                high = pivot - 1;
             }
         }
+        return low - 1;
     }
-    
-    return j == p.length();  // Check if `p` is a subsequence of `s`
-}
 
+    private boolean isASubsequenceAfterRemoving(char[] s, char[] p, int[] removable, int limit) {
+        for (int i = 0; i < limit; i++) {
+            s[removable[i]] = 0;
+        }
+        int i = 0, j = 0;
+        while (i < s.length && j < p.length) {
+            if (s[i] == p[j]) {
+                j++;
+            }
+            i++;
+        }
+        return j == p.length;
+    }
 }
