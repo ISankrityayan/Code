@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/ISankrityayan/Code/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ISankrityayan/Code/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1739-split-two-strings-to-make-palindrome](https://github.com/ISankrityayan/Code/tree/master/1739-split-two-strings-to-make-palindrome) |
+| [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/ISankrityayan/Code/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1894-merge-strings-alternately](https://github.com/ISankrityayan/Code/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/ISankrityayan/Code/tree/master/1923-sentence-similarity-iii) |
 | [2027-maximum-number-of-removable-characters](https://github.com/ISankrityayan/Code/tree/master/2027-maximum-number-of-removable-characters) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ISankrityayan/Code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/ISankrityayan/Code/tree/master/1797-goal-parser-interpretation) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/ISankrityayan/Code/tree/master/1823-determine-if-string-halves-are-alike) |
+| [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/ISankrityayan/Code/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1894-merge-strings-alternately](https://github.com/ISankrityayan/Code/tree/master/1894-merge-strings-alternately) |
 | [1899-count-items-matching-a-rule](https://github.com/ISankrityayan/Code/tree/master/1899-count-items-matching-a-rule) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/ISankrityayan/Code/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
