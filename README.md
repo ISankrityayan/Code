@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ISankrityayan/Code/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/ISankrityayan/Code/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/ISankrityayan/Code/tree/master/0861-flipping-an-image) |
+| [0878-shifting-letters](https://github.com/ISankrityayan/Code/tree/master/0878-shifting-letters) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ISankrityayan/Code/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/ISankrityayan/Code/tree/master/0898-transpose-matrix) |
 | [0906-walking-robot-simulation](https://github.com/ISankrityayan/Code/tree/master/0906-walking-robot-simulation) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ISankrityayan/Code/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/ISankrityayan/Code/tree/master/0410-split-array-largest-sum) |
+| [0878-shifting-letters](https://github.com/ISankrityayan/Code/tree/master/0878-shifting-letters) |
 | [1321-get-equal-substrings-within-budget](https://github.com/ISankrityayan/Code/tree/master/1321-get-equal-substrings-within-budget) |
 | [1603-running-sum-of-1d-array](https://github.com/ISankrityayan/Code/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/ISankrityayan/Code/tree/master/1833-find-the-highest-altitude) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/ISankrityayan/Code/tree/master/0686-repeated-string-match) |
 | [0742-to-lower-case](https://github.com/ISankrityayan/Code/tree/master/0742-to-lower-case) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/ISankrityayan/Code/tree/master/0793-swap-adjacent-in-lr-string) |
+| [0878-shifting-letters](https://github.com/ISankrityayan/Code/tree/master/0878-shifting-letters) |
 | [0961-long-pressed-name](https://github.com/ISankrityayan/Code/tree/master/0961-long-pressed-name) |
 | [1205-defanging-an-ip-address](https://github.com/ISankrityayan/Code/tree/master/1205-defanging-an-ip-address) |
 | [1321-get-equal-substrings-within-budget](https://github.com/ISankrityayan/Code/tree/master/1321-get-equal-substrings-within-budget) |
