@@ -1,15 +1,15 @@
 class Solution {
     public String shiftingLetters(String s, int[] shifts) {
-        int n=shifts.length;
-        for(int i=n-2;i>=0;i--){
-            shifts[i]=(shifts[i]+shifts[i+1])%26;
+        int n = shifts.length;
+        char[] chars = s.toCharArray();
+        
+        // Calculate the cumulative shifts from right to left in one go
+        int cumulativeShift = 0;
+        for (int i = n - 1; i >= 0; i--) {
+            cumulativeShift = (cumulativeShift + shifts[i]) % 26;  // Avoid overflow with mod 26
+            chars[i] = (char)((chars[i] - 'a' + cumulativeShift) % 26 + 'a');  // Shift characters
         }
-        char[] chars=s.toCharArray();
-        for(int i=0;i<n;i++){
-            chars[i] = (char)((chars[i] - 'a' + shifts[i]) % 26 + 'a');
-        }
-
-                return new String(chars);
-
+        
+        return new String(chars);  // Convert char array back to string
     }
 }
