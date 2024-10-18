@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1372-check-if-it-is-a-good-array](https://github.com/ISankrityayan/Code/tree/master/1372-check-if-it-is-a-good-array) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/ISankrityayan/Code/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ISankrityayan/Code/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1449-print-words-vertically](https://github.com/ISankrityayan/Code/tree/master/1449-print-words-vertically) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ISankrityayan/Code/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ISankrityayan/Code/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ISankrityayan/Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/ISankrityayan/Code/tree/master/1205-defanging-an-ip-address) |
 | [1321-get-equal-substrings-within-budget](https://github.com/ISankrityayan/Code/tree/master/1321-get-equal-substrings-within-budget) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/ISankrityayan/Code/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
+| [1449-print-words-vertically](https://github.com/ISankrityayan/Code/tree/master/1449-print-words-vertically) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ISankrityayan/Code/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1651-shuffle-string](https://github.com/ISankrityayan/Code/tree/master/1651-shuffle-string) |
 | [1739-split-two-strings-to-make-palindrome](https://github.com/ISankrityayan/Code/tree/master/1739-split-two-strings-to-make-palindrome) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-walking-robot-simulation](https://github.com/ISankrityayan/Code/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/ISankrityayan/Code/tree/master/0921-spiral-matrix-iii) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/ISankrityayan/Code/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1449-print-words-vertically](https://github.com/ISankrityayan/Code/tree/master/1449-print-words-vertically) |
 | [1505-create-target-array-in-the-given-order](https://github.com/ISankrityayan/Code/tree/master/1505-create-target-array-in-the-given-order) |
 | [2058-concatenation-of-array](https://github.com/ISankrityayan/Code/tree/master/2058-concatenation-of-array) |
 ## Number Theory
