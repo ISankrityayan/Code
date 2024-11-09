@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ISankrityayan/Code/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/ISankrityayan/Code/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/ISankrityayan/Code/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/ISankrityayan/Code/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/ISankrityayan/Code/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/ISankrityayan/Code/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/ISankrityayan/Code/tree/master/0268-missing-number) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ISankrityayan/Code/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/ISankrityayan/Code/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ISankrityayan/Code/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/ISankrityayan/Code/tree/master/0645-set-mismatch) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/ISankrityayan/Code/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/ISankrityayan/Code/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ISankrityayan/Code/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/ISankrityayan/Code/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/ISankrityayan/Code/tree/master/0125-valid-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/ISankrityayan/Code/tree/master/0227-basic-calculator-ii) |
 | [0539-minimum-time-difference](https://github.com/ISankrityayan/Code/tree/master/0539-minimum-time-difference) |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/ISankrityayan/Code/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/ISankrityayan/Code/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ISankrityayan/Code/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/ISankrityayan/Code/tree/master/0067-add-binary) |
 | [0566-reshape-the-matrix](https://github.com/ISankrityayan/Code/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/ISankrityayan/Code/tree/master/0657-robot-return-to-origin) |
 | [0861-flipping-an-image](https://github.com/ISankrityayan/Code/tree/master/0861-flipping-an-image) |
