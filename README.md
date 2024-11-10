@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ISankrityayan/Code/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ISankrityayan/Code/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/ISankrityayan/Code/tree/master/0338-counting-bits) |
+| [0401-binary-watch](https://github.com/ISankrityayan/Code/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/ISankrityayan/Code/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/ISankrityayan/Code/tree/master/0861-flipping-an-image) |
 ## Divide and Conquer
@@ -422,4 +423,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ISankrityayan/Code/tree/master/0020-valid-parentheses) |
 | [0227-basic-calculator-ii](https://github.com/ISankrityayan/Code/tree/master/0227-basic-calculator-ii) |
 | [2128-reverse-prefix-of-word](https://github.com/ISankrityayan/Code/tree/master/2128-reverse-prefix-of-word) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/ISankrityayan/Code/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
