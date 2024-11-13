@@ -1,39 +1,19 @@
+
+
 class Solution {
     public int countPrimeSetBits(int left, int right) {
-        int ans=0;
-        for(int i=left;i<=right;i++){
-            int mask=1;
-            int count=0;
-            for(int j=0;j<32;j++){
-                if((i&mask)!=0){
-                    count++;
-
-                }
-                mask=mask<<1;
-
-            }
-
-              if(isPrime(count)){
-            ans++;
-        }
-       
-        }
-         return ans;
-      
-    }
-
-    private boolean isPrime(int num){
-        if(num==1){
-            return false;
-        }
-        if(num==2){
-            return true;
-        }
-        for(int i=2;i<=num/2;i++){
-            if(num%i==0){
-                return false;
+        // Precompute prime numbers up to 32, since the bit count will not exceed this
+        Set<Integer> primeSet = Set.of(2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31);
+        
+        int ans = 0;
+        for (int i = left; i <= right; i++) {
+            int bitCount = Integer.bitCount(i); // Directly count set bits
+            
+            if (primeSet.contains(bitCount)) { // Check if bit count is a prime
+                ans++;
             }
         }
-        return true;
+        
+        return ans;
     }
 }
