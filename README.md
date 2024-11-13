@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/ISankrityayan/Code/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ISankrityayan/Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0755-reach-a-number](https://github.com/ISankrityayan/Code/tree/master/0755-reach-a-number) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/ISankrityayan/Code/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1018-largest-perimeter-triangle](https://github.com/ISankrityayan/Code/tree/master/1018-largest-perimeter-triangle) |
 | [1031-add-to-array-form-of-integer](https://github.com/ISankrityayan/Code/tree/master/1031-add-to-array-form-of-integer) |
 | [1094-matrix-cells-in-distance-order](https://github.com/ISankrityayan/Code/tree/master/1094-matrix-cells-in-distance-order) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/ISankrityayan/Code/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/ISankrityayan/Code/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/ISankrityayan/Code/tree/master/0645-set-mismatch) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/ISankrityayan/Code/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0861-flipping-an-image](https://github.com/ISankrityayan/Code/tree/master/0861-flipping-an-image) |
 | [0899-binary-gap](https://github.com/ISankrityayan/Code/tree/master/0899-binary-gap) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ISankrityayan/Code/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
