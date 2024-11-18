@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/ISankrityayan/Code/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/ISankrityayan/Code/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/ISankrityayan/Code/tree/master/0073-set-matrix-zeroes) |
+| [0187-repeated-dna-sequences](https://github.com/ISankrityayan/Code/tree/master/0187-repeated-dna-sequences) |
 | [0217-contains-duplicate](https://github.com/ISankrityayan/Code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ISankrityayan/Code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ISankrityayan/Code/tree/master/0349-intersection-of-two-arrays) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/ISankrityayan/Code/tree/master/0187-repeated-dna-sequences) |
 | [1321-get-equal-substrings-within-budget](https://github.com/ISankrityayan/Code/tree/master/1321-get-equal-substrings-within-budget) |
 | [1873-longest-nice-substring](https://github.com/ISankrityayan/Code/tree/master/1873-longest-nice-substring) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ISankrityayan/Code/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/ISankrityayan/Code/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/ISankrityayan/Code/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ISankrityayan/Code/tree/master/0137-single-number-ii) |
+| [0187-repeated-dna-sequences](https://github.com/ISankrityayan/Code/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/ISankrityayan/Code/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ISankrityayan/Code/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/ISankrityayan/Code/tree/master/0268-missing-number) |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/ISankrityayan/Code/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ISankrityayan/Code/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/ISankrityayan/Code/tree/master/0125-valid-palindrome) |
+| [0187-repeated-dna-sequences](https://github.com/ISankrityayan/Code/tree/master/0187-repeated-dna-sequences) |
 | [0227-basic-calculator-ii](https://github.com/ISankrityayan/Code/tree/master/0227-basic-calculator-ii) |
 | [0539-minimum-time-difference](https://github.com/ISankrityayan/Code/tree/master/0539-minimum-time-difference) |
 | [0556-next-greater-element-iii](https://github.com/ISankrityayan/Code/tree/master/0556-next-greater-element-iii) |
@@ -477,4 +481,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ISankrityayan/Code/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/ISankrityayan/Code/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/ISankrityayan/Code/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
