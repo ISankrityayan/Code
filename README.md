@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/ISankrityayan/Code/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/ISankrityayan/Code/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ISankrityayan/Code/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/ISankrityayan/Code/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/ISankrityayan/Code/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/ISankrityayan/Code/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/ISankrityayan/Code/tree/master/0268-missing-number) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/ISankrityayan/Code/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/ISankrityayan/Code/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/ISankrityayan/Code/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/ISankrityayan/Code/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/ISankrityayan/Code/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/ISankrityayan/Code/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ISankrityayan/Code/tree/master/0137-single-number-ii) |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ISankrityayan/Code/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/ISankrityayan/Code/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/ISankrityayan/Code/tree/master/0090-subsets-ii) |
 | [0401-binary-watch](https://github.com/ISankrityayan/Code/tree/master/0401-binary-watch) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ISankrityayan/Code/tree/master/1993-sum-of-all-subset-xor-totals) |
