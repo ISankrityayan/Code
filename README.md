@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ISankrityayan/Code/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1372-check-if-it-is-a-good-array](https://github.com/ISankrityayan/Code/tree/master/1372-check-if-it-is-a-good-array) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/ISankrityayan/Code/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/ISankrityayan/Code/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ISankrityayan/Code/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1449-print-words-vertically](https://github.com/ISankrityayan/Code/tree/master/1449-print-words-vertically) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/ISankrityayan/Code/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/ISankrityayan/Code/tree/master/0898-transpose-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/ISankrityayan/Code/tree/master/0921-spiral-matrix-iii) |
 | [1094-matrix-cells-in-distance-order](https://github.com/ISankrityayan/Code/tree/master/1094-matrix-cells-in-distance-order) |
+| [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/ISankrityayan/Code/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ISankrityayan/Code/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ISankrityayan/Code/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1791-richest-customer-wealth](https://github.com/ISankrityayan/Code/tree/master/1791-richest-customer-wealth) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-fair-candy-swap](https://github.com/ISankrityayan/Code/tree/master/0924-fair-candy-swap) |
 | [1217-relative-sort-array](https://github.com/ISankrityayan/Code/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/ISankrityayan/Code/tree/master/1256-rank-transform-of-an-array) |
+| [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/ISankrityayan/Code/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ISankrityayan/Code/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ISankrityayan/Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/ISankrityayan/Code/tree/master/1635-number-of-good-pairs) |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/ISankrityayan/Code/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0861-flipping-an-image](https://github.com/ISankrityayan/Code/tree/master/0861-flipping-an-image) |
 | [0899-binary-gap](https://github.com/ISankrityayan/Code/tree/master/0899-binary-gap) |
+| [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/ISankrityayan/Code/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ISankrityayan/Code/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/ISankrityayan/Code/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1610-xor-operation-in-an-array](https://github.com/ISankrityayan/Code/tree/master/1610-xor-operation-in-an-array) |
@@ -489,4 +493,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/ISankrityayan/Code/tree/master/0187-repeated-dna-sequences) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/ISankrityayan/Code/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 <!---LeetCode Topics End-->
