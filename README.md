@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ISankrityayan/Code/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/ISankrityayan/Code/tree/master/0073-set-matrix-zeroes) |
 | [0187-repeated-dna-sequences](https://github.com/ISankrityayan/Code/tree/master/0187-repeated-dna-sequences) |
+| [0202-happy-number](https://github.com/ISankrityayan/Code/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/ISankrityayan/Code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ISankrityayan/Code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ISankrityayan/Code/tree/master/0349-intersection-of-two-arrays) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ISankrityayan/Code/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/ISankrityayan/Code/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/ISankrityayan/Code/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/ISankrityayan/Code/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/ISankrityayan/Code/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ISankrityayan/Code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ISankrityayan/Code/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ISankrityayan/Code/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/ISankrityayan/Code/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/ISankrityayan/Code/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/ISankrityayan/Code/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/ISankrityayan/Code/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/ISankrityayan/Code/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/ISankrityayan/Code/tree/master/0539-minimum-time-difference) |
