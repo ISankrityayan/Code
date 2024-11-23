@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/ISankrityayan/Code/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/ISankrityayan/Code/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/ISankrityayan/Code/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/ISankrityayan/Code/tree/master/0342-power-of-four) |
 | [0539-minimum-time-difference](https://github.com/ISankrityayan/Code/tree/master/0539-minimum-time-difference) |
 | [0556-next-greater-element-iii](https://github.com/ISankrityayan/Code/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ISankrityayan/Code/tree/master/0628-maximum-product-of-three-numbers) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ISankrityayan/Code/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ISankrityayan/Code/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/ISankrityayan/Code/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/ISankrityayan/Code/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/ISankrityayan/Code/tree/master/0401-binary-watch) |
 | [0461-hamming-distance](https://github.com/ISankrityayan/Code/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/ISankrityayan/Code/tree/master/0476-number-complement) |
@@ -503,4 +505,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/ISankrityayan/Code/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/ISankrityayan/Code/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
