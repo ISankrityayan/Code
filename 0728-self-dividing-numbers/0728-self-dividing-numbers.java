@@ -1,21 +1,26 @@
 class Solution {
-    public List<Integer> selfDividingNumbers(int left, int right) {
-        List<Integer> list=new ArrayList<>();
-        int n1=left,n2=right;
-        for(int i=left;i<=right;i++){
-            if(check(i))
-            list.add(i);
+
+    public boolean isDivide(int n) {
+        int num = n;
+        while (n > 0) {
+            int rem = n % 10;
+            if (rem == 0 || num % rem != 0) {
+                return false;
+            }
+            n /= 10;
         }
-        return list;
-    }
-    public boolean check(int n){
-        int digit=n;
-        while(n>0){
-            int div=n%10;
-            if(div==0) return false;
-            if(digit%div != 0) return false;
-            n=n/10;
-        }
+
         return true;
+    }
+
+    public List<Integer> selfDividingNumbers(int left, int right) {
+        ArrayList<Integer> res = new ArrayList<>();
+        for (int i = left; i <= right; i++) {
+            if (isDivide(i)) {
+                res.add(i);
+            }
+        }
+
+        return res;
     }
 }
