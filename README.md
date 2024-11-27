@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ISankrityayan/Code/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ISankrityayan/Code/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/ISankrityayan/Code/tree/master/1446-angle-between-hands-of-a-clock) |
+| [1585-the-kth-factor-of-n](https://github.com/ISankrityayan/Code/tree/master/1585-the-kth-factor-of-n) |
 | [1610-xor-operation-in-an-array](https://github.com/ISankrityayan/Code/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/ISankrityayan/Code/tree/master/1635-number-of-good-pairs) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ISankrityayan/Code/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1372-check-if-it-is-a-good-array](https://github.com/ISankrityayan/Code/tree/master/1372-check-if-it-is-a-good-array) |
+| [1585-the-kth-factor-of-n](https://github.com/ISankrityayan/Code/tree/master/1585-the-kth-factor-of-n) |
 ## String Matching
 |  |
 | ------- |
