@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/ISankrityayan/Code/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/ISankrityayan/Code/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ISankrityayan/Code/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/ISankrityayan/Code/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/ISankrityayan/Code/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/ISankrityayan/Code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ISankrityayan/Code/tree/master/0268-missing-number) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ISankrityayan/Code/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/ISankrityayan/Code/tree/master/0125-valid-palindrome) |
 | [0187-repeated-dna-sequences](https://github.com/ISankrityayan/Code/tree/master/0187-repeated-dna-sequences) |
+| [0224-basic-calculator](https://github.com/ISankrityayan/Code/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/ISankrityayan/Code/tree/master/0227-basic-calculator-ii) |
 | [0539-minimum-time-difference](https://github.com/ISankrityayan/Code/tree/master/0539-minimum-time-difference) |
 | [0556-next-greater-element-iii](https://github.com/ISankrityayan/Code/tree/master/0556-next-greater-element-iii) |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ISankrityayan/Code/tree/master/0020-valid-parentheses) |
+| [0224-basic-calculator](https://github.com/ISankrityayan/Code/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/ISankrityayan/Code/tree/master/0227-basic-calculator-ii) |
 | [2128-reverse-prefix-of-word](https://github.com/ISankrityayan/Code/tree/master/2128-reverse-prefix-of-word) |
 ## Backtracking
@@ -522,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/ISankrityayan/Code/tree/master/0060-permutation-sequence) |
+| [0224-basic-calculator](https://github.com/ISankrityayan/Code/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/ISankrityayan/Code/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/ISankrityayan/Code/tree/master/0342-power-of-four) |
 ## Memoization
