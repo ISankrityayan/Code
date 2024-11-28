@@ -1,34 +1,56 @@
 class Solution {
     public int calculate(String s) {
-    if(s == null) return 0;
-        
-    int result = 0;
-    int sign = 1;
-    int num = 0;
-            
-    Stack<Integer> stack = new Stack<Integer>();
-    stack.push(sign);
-            
-    for(int i = 0; i < s.length(); i++) {
-        char c = s.charAt(i);
-                
-        if(c >= '0' && c <= '9') {
-            num = num * 10 + (c - '0');
-                    
-        } else if(c == '+' || c == '-') {
-            result += sign * num;
-            sign = stack.peek() * (c == '+' ? 1: -1); 
-            num = 0;
-                    
-        } else if(c == '(') {
+        Stack<Integer>stack = new Stack<>();
+        int number=0;
+        int sign=1;
+        int result=0;
+
+        for(int i=0;i<s.length();i++)
+        {
+            char c = s.charAt(i);
+               
+         if(Character.isDigit(c))
+         {
+            number = number*10 + (c-'0');
+
+         }
+
+         else if(c=='+')
+         {
+            result = result+(sign*number);
+            number = 0;
+            sign=1;
+         }// + ends
+
+         else if(c=='-')
+         {  
+            result = result +(sign*number);
+            number=0;
+            sign=-1;
+         }//- ends
+
+        else if(c=='(')
+        {
+            stack.push(result);
             stack.push(sign);
-                    
-        } else if(c == ')') {
-            stack.pop();
-        }
-    }
-            
-    result += sign * num;
-    return result;
-}
-}
+            number=0;
+            result=0;
+            sign=1;
+        } // ( ends
+
+        else if(c==')')
+        {
+            result = result+(sign*number);
+            number=0;
+            int prevSign=stack.pop();
+            int prevResult=stack.pop();
+            result = prevResult + prevSign*result;
+        }// ) ends
+
+        }//for ends
+
+   result=result+sign* number;
+   return result;
+
+    }//function
+}//class
