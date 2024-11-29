@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/ISankrityayan/Code/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/ISankrityayan/Code/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ISankrityayan/Code/tree/master/0137-single-number-ii) |
+| [0149-max-points-on-a-line](https://github.com/ISankrityayan/Code/tree/master/0149-max-points-on-a-line) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ISankrityayan/Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ISankrityayan/Code/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/ISankrityayan/Code/tree/master/0162-find-peak-element) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/ISankrityayan/Code/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/ISankrityayan/Code/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/ISankrityayan/Code/tree/master/0073-set-matrix-zeroes) |
+| [0149-max-points-on-a-line](https://github.com/ISankrityayan/Code/tree/master/0149-max-points-on-a-line) |
 | [0187-repeated-dna-sequences](https://github.com/ISankrityayan/Code/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/ISankrityayan/Code/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/ISankrityayan/Code/tree/master/0217-contains-duplicate) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ISankrityayan/Code/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/ISankrityayan/Code/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/ISankrityayan/Code/tree/master/0089-gray-code) |
+| [0149-max-points-on-a-line](https://github.com/ISankrityayan/Code/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/ISankrityayan/Code/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ISankrityayan/Code/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/ISankrityayan/Code/tree/master/0224-basic-calculator) |
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/ISankrityayan/Code/tree/master/0149-max-points-on-a-line) |
 | [1094-matrix-cells-in-distance-order](https://github.com/ISankrityayan/Code/tree/master/1094-matrix-cells-in-distance-order) |
 ## Counting Sort
 |  |
