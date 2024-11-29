@@ -1,28 +1,32 @@
+import java.util.HashMap;
+
 class Solution {
     public int maxPoints(int[][] points) {
-        int m=points.length;
-        if (m<2)
-        {
-            return m;
+        int n = points.length;
+        if (n == 1) {
+            return 1;
         }
-        int max=0;
-        for(int i=0;i<m;i++)
-        {
-            for(int j=i+1;j<m;j++)
-            {
-                int x1=points[i][0],y1=points[i][1],x2=points[j][0],y2=points[j][1];
-                int count=2;
-                for(int k=j+1;k<m;k++)
-                {
-                    int x3=points[k][0],y3=points[k][1];
-                    if ((x2-x1)*(y3-y1)==(x3-x1)*(y2-y1))
-                    {
-                        count ++;
-                    }
-                }
-                max=Math.max(count,max);
+        
+        int res = 0;
+        
+        for (int i = 0; i < n; i++) {
+            HashMap<Double, Integer> map = new HashMap<>();
+            for (int j = 0; j < n; j++) {
+                if (j == i) continue;
+                
+                double dy = points[j][1] - points[i][1];
+                double dx = points[j][0] - points[i][0];
+                
+                double theta = Math.atan2(dy, dx);  // Calculate the angle
+                map.put(theta, map.getOrDefault(theta, 0) + 1);
+            }
+            
+            // Iterate through the map to find the maximum points on a line
+            for (int count : map.values()) {
+                res = Math.max(res, count + 1);  // Adding 1 to count the base point
             }
         }
-        return max;
+        
+        return res;
     }
 }
