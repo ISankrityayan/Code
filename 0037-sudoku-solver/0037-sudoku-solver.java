@@ -45,34 +45,35 @@ class Solution {
     }
 
     private boolean isSafe(char[][] board, int row, int col, int num) {
-        char charNum = (char) (num + '0'); // Convert int to char for comparison
-        int boxSize = 3;
+    char charNum = (char) (num + '0'); // Convert int to char for comparison
+    int boxSize = (int) Math.sqrt(board.length); // Calculate box size dynamically
 
-        // Check the row
-        for (int i = 0; i < board.length; i++) {
-            if (board[row][i] == charNum) {
-                return false;
-            }
+    // Check the row
+    for (int i = 0; i < board.length; i++) {
+        if (board[row][i] == charNum) {
+            return false;
         }
-
-        // Check the column
-        for (int i = 0; i < board.length; i++) {
-            if (board[i][col] == charNum) {
-                return false;
-            }
-        }
-
-        // Check the 3x3 subgrid
-        int rowStart = row - row % boxSize;
-        int colStart = col - col % boxSize;
-        for (int i = rowStart; i < rowStart + boxSize; i++) {
-            for (int j = colStart; j < colStart + boxSize; j++) {
-                if (board[i][j] == charNum) {
-                    return false;
-                }
-            }
-        }
-
-        return true; // Safe to place the number
     }
+
+    // Check the column
+    for (int i = 0; i < board.length; i++) {
+        if (board[i][col] == charNum) {
+            return false;
+        }
+    }
+
+    // Check the subgrid
+    int rowStart = row - row % boxSize;
+    int colStart = col - col % boxSize;
+    for (int i = rowStart; i < rowStart + boxSize; i++) {
+        for (int j = colStart; j < colStart + boxSize; j++) {
+            if (board[i][j] == charNum) {
+                return false;
+            }
+        }
+    }
+
+    return true;
+}
+
 }
