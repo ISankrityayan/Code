@@ -4,7 +4,7 @@ class Solution {
     }
 
     private int count(int[] nums, int target,int index,int sum){
-        if(index>=nums.length){
+        if(index==nums.length){
             return sum==target?1:0;
         }
 
