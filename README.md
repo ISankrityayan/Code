@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/ISankrityayan/Code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ISankrityayan/Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/ISankrityayan/Code/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/ISankrityayan/Code/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/ISankrityayan/Code/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ISankrityayan/Code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/ISankrityayan/Code/tree/master/0566-reshape-the-matrix) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ISankrityayan/Code/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/ISankrityayan/Code/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/ISankrityayan/Code/tree/master/0410-split-array-largest-sum) |
+| [0494-target-sum](https://github.com/ISankrityayan/Code/tree/master/0494-target-sum) |
 | [1013-fibonacci-number](https://github.com/ISankrityayan/Code/tree/master/1013-fibonacci-number) |
 | [1764-maximum-repeating-substring](https://github.com/ISankrityayan/Code/tree/master/1764-maximum-repeating-substring) |
 ## Geometry
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/ISankrityayan/Code/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/ISankrityayan/Code/tree/master/0090-subsets-ii) |
 | [0401-binary-watch](https://github.com/ISankrityayan/Code/tree/master/0401-binary-watch) |
+| [0494-target-sum](https://github.com/ISankrityayan/Code/tree/master/0494-target-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ISankrityayan/Code/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
