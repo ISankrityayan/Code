@@ -452,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1449-print-words-vertically](https://github.com/ISankrityayan/Code/tree/master/1449-print-words-vertically) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ISankrityayan/Code/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1651-shuffle-string](https://github.com/ISankrityayan/Code/tree/master/1651-shuffle-string) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/ISankrityayan/Code/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1739-split-two-strings-to-make-palindrome](https://github.com/ISankrityayan/Code/tree/master/1739-split-two-strings-to-make-palindrome) |
 | [1764-maximum-repeating-substring](https://github.com/ISankrityayan/Code/tree/master/1764-maximum-repeating-substring) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ISankrityayan/Code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/ISankrityayan/Code/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1449-print-words-vertically](https://github.com/ISankrityayan/Code/tree/master/1449-print-words-vertically) |
 | [1505-create-target-array-in-the-given-order](https://github.com/ISankrityayan/Code/tree/master/1505-create-target-array-in-the-given-order) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/ISankrityayan/Code/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2058-concatenation-of-array](https://github.com/ISankrityayan/Code/tree/master/2058-concatenation-of-array) |
 ## Number Theory
 |  |
@@ -553,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/ISankrityayan/Code/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ISankrityayan/Code/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/ISankrityayan/Code/tree/master/1013-fibonacci-number) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/ISankrityayan/Code/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Memoization
 |  |
 | ------- |
