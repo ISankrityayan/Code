@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ISankrityayan/Code/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ISankrityayan/Code/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ISankrityayan/Code/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ISankrityayan/Code/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ISankrityayan/Code/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/ISankrityayan/Code/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/ISankrityayan/Code/tree/master/0136-single-number) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/ISankrityayan/Code/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/ISankrityayan/Code/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ISankrityayan/Code/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/ISankrityayan/Code/tree/master/0079-word-search) |
 | [0566-reshape-the-matrix](https://github.com/ISankrityayan/Code/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/ISankrityayan/Code/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/ISankrityayan/Code/tree/master/0898-transpose-matrix) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ISankrityayan/Code/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ISankrityayan/Code/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ISankrityayan/Code/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/ISankrityayan/Code/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/ISankrityayan/Code/tree/master/0125-valid-palindrome) |
 | [0187-repeated-dna-sequences](https://github.com/ISankrityayan/Code/tree/master/0187-repeated-dna-sequences) |
 | [0224-basic-calculator](https://github.com/ISankrityayan/Code/tree/master/0224-basic-calculator) |
@@ -515,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/ISankrityayan/Code/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ISankrityayan/Code/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/ISankrityayan/Code/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ISankrityayan/Code/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/ISankrityayan/Code/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/ISankrityayan/Code/tree/master/0090-subsets-ii) |
 | [0401-binary-watch](https://github.com/ISankrityayan/Code/tree/master/0401-binary-watch) |
