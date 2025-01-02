@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1885-count-number-of-homogenous-substrings](https://github.com/ISankrityayan/Code/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/ISankrityayan/Code/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ISankrityayan/Code/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2050-count-good-numbers](https://github.com/ISankrityayan/Code/tree/master/2050-count-good-numbers) |
 ## Greedy
 |  |
 | ------- |
@@ -556,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/ISankrityayan/Code/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/ISankrityayan/Code/tree/master/1013-fibonacci-number) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/ISankrityayan/Code/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2050-count-good-numbers](https://github.com/ISankrityayan/Code/tree/master/2050-count-good-numbers) |
 ## Memoization
 |  |
 | ------- |
