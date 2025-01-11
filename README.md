@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/ISankrityayan/Code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ISankrityayan/Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/ISankrityayan/Code/tree/master/0455-assign-cookies) |
+| [0486-predict-the-winner](https://github.com/ISankrityayan/Code/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/ISankrityayan/Code/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/ISankrityayan/Code/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ISankrityayan/Code/tree/master/0540-single-element-in-a-sorted-array) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/ISankrityayan/Code/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/ISankrityayan/Code/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ISankrityayan/Code/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/ISankrityayan/Code/tree/master/0486-predict-the-winner) |
 | [0539-minimum-time-difference](https://github.com/ISankrityayan/Code/tree/master/0539-minimum-time-difference) |
 | [0556-next-greater-element-iii](https://github.com/ISankrityayan/Code/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ISankrityayan/Code/tree/master/0628-maximum-product-of-three-numbers) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/ISankrityayan/Code/tree/master/0279-perfect-squares) |
 | [0338-counting-bits](https://github.com/ISankrityayan/Code/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/ISankrityayan/Code/tree/master/0410-split-array-largest-sum) |
+| [0486-predict-the-winner](https://github.com/ISankrityayan/Code/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/ISankrityayan/Code/tree/master/0494-target-sum) |
 | [1013-fibonacci-number](https://github.com/ISankrityayan/Code/tree/master/1013-fibonacci-number) |
 | [1764-maximum-repeating-substring](https://github.com/ISankrityayan/Code/tree/master/1764-maximum-repeating-substring) |
@@ -568,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/ISankrityayan/Code/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ISankrityayan/Code/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/ISankrityayan/Code/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/ISankrityayan/Code/tree/master/0486-predict-the-winner) |
 | [0795-k-th-symbol-in-grammar](https://github.com/ISankrityayan/Code/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/ISankrityayan/Code/tree/master/1013-fibonacci-number) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/ISankrityayan/Code/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -582,4 +586,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ISankrityayan/Code/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/ISankrityayan/Code/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
