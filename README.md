@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-count-items-matching-a-rule](https://github.com/ISankrityayan/Code/tree/master/1899-count-items-matching-a-rule) |
 | [1923-sentence-similarity-iii](https://github.com/ISankrityayan/Code/tree/master/1923-sentence-similarity-iii) |
 | [1946-minimum-absolute-sum-difference](https://github.com/ISankrityayan/Code/tree/master/1946-minimum-absolute-sum-difference) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/ISankrityayan/Code/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/ISankrityayan/Code/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ISankrityayan/Code/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1983-maximum-population-year](https://github.com/ISankrityayan/Code/tree/master/1983-maximum-population-year) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/ISankrityayan/Code/tree/master/1635-number-of-good-pairs) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ISankrityayan/Code/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/ISankrityayan/Code/tree/master/1885-count-number-of-homogenous-substrings) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/ISankrityayan/Code/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/ISankrityayan/Code/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ISankrityayan/Code/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/ISankrityayan/Code/tree/master/2050-count-good-numbers) |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1449-print-words-vertically](https://github.com/ISankrityayan/Code/tree/master/1449-print-words-vertically) |
 | [1505-create-target-array-in-the-given-order](https://github.com/ISankrityayan/Code/tree/master/1505-create-target-array-in-the-given-order) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/ISankrityayan/Code/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/ISankrityayan/Code/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/ISankrityayan/Code/tree/master/2058-concatenation-of-array) |
 ## Number Theory
 |  |
@@ -568,10 +571,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0795-k-th-symbol-in-grammar](https://github.com/ISankrityayan/Code/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/ISankrityayan/Code/tree/master/1013-fibonacci-number) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/ISankrityayan/Code/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/ISankrityayan/Code/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/ISankrityayan/Code/tree/master/2050-count-good-numbers) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ISankrityayan/Code/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/ISankrityayan/Code/tree/master/1013-fibonacci-number) |
+## Queue
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/ISankrityayan/Code/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
