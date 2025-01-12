@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ISankrityayan/Code/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/ISankrityayan/Code/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/ISankrityayan/Code/tree/master/0189-rotate-array) |
+| [0216-combination-sum-iii](https://github.com/ISankrityayan/Code/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/ISankrityayan/Code/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ISankrityayan/Code/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ISankrityayan/Code/tree/master/0268-missing-number) |
@@ -542,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/ISankrityayan/Code/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/ISankrityayan/Code/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/ISankrityayan/Code/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/ISankrityayan/Code/tree/master/0216-combination-sum-iii) |
 | [0401-binary-watch](https://github.com/ISankrityayan/Code/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/ISankrityayan/Code/tree/master/0494-target-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ISankrityayan/Code/tree/master/1993-sum-of-all-subset-xor-totals) |
