@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/ISankrityayan/Code/tree/master/0645-set-mismatch) |
 | [0906-walking-robot-simulation](https://github.com/ISankrityayan/Code/tree/master/0906-walking-robot-simulation) |
 | [0924-fair-candy-swap](https://github.com/ISankrityayan/Code/tree/master/0924-fair-candy-swap) |
+| [1160-letter-tile-possibilities](https://github.com/ISankrityayan/Code/tree/master/1160-letter-tile-possibilities) |
 | [1217-relative-sort-array](https://github.com/ISankrityayan/Code/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/ISankrityayan/Code/tree/master/1256-rank-transform-of-an-array) |
 | [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/ISankrityayan/Code/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/ISankrityayan/Code/tree/master/1137-height-checker) |
+| [1160-letter-tile-possibilities](https://github.com/ISankrityayan/Code/tree/master/1160-letter-tile-possibilities) |
 | [1217-relative-sort-array](https://github.com/ISankrityayan/Code/tree/master/1217-relative-sort-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/ISankrityayan/Code/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ISankrityayan/Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0878-shifting-letters](https://github.com/ISankrityayan/Code/tree/master/0878-shifting-letters) |
 | [0961-long-pressed-name](https://github.com/ISankrityayan/Code/tree/master/0961-long-pressed-name) |
 | [1080-camelcase-matching](https://github.com/ISankrityayan/Code/tree/master/1080-camelcase-matching) |
+| [1160-letter-tile-possibilities](https://github.com/ISankrityayan/Code/tree/master/1160-letter-tile-possibilities) |
 | [1205-defanging-an-ip-address](https://github.com/ISankrityayan/Code/tree/master/1205-defanging-an-ip-address) |
 | [1321-get-equal-substrings-within-budget](https://github.com/ISankrityayan/Code/tree/master/1321-get-equal-substrings-within-budget) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/ISankrityayan/Code/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
@@ -546,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/ISankrityayan/Code/tree/master/0216-combination-sum-iii) |
 | [0401-binary-watch](https://github.com/ISankrityayan/Code/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/ISankrityayan/Code/tree/master/0494-target-sum) |
+| [1160-letter-tile-possibilities](https://github.com/ISankrityayan/Code/tree/master/1160-letter-tile-possibilities) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ISankrityayan/Code/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
