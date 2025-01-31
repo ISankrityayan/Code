@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ISankrityayan/Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/ISankrityayan/Code/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/ISankrityayan/Code/tree/master/0125-valid-palindrome) |
+| [0143-reorder-list](https://github.com/ISankrityayan/Code/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/ISankrityayan/Code/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ISankrityayan/Code/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/ISankrityayan/Code/tree/master/0287-find-the-duplicate-number) |
@@ -533,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ISankrityayan/Code/tree/master/0020-valid-parentheses) |
+| [0143-reorder-list](https://github.com/ISankrityayan/Code/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/ISankrityayan/Code/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/ISankrityayan/Code/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/ISankrityayan/Code/tree/master/0394-decode-string) |
@@ -580,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/ISankrityayan/Code/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/ISankrityayan/Code/tree/master/0060-permutation-sequence) |
+| [0143-reorder-list](https://github.com/ISankrityayan/Code/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/ISankrityayan/Code/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/ISankrityayan/Code/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ISankrityayan/Code/tree/master/0241-different-ways-to-add-parentheses) |
@@ -606,4 +609,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/ISankrityayan/Code/tree/master/0486-predict-the-winner) |
+## Linked List
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/ISankrityayan/Code/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
