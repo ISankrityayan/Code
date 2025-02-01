@@ -464,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/ISankrityayan/Code/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/ISankrityayan/Code/tree/master/0686-repeated-string-match) |
 | [0742-to-lower-case](https://github.com/ISankrityayan/Code/tree/master/0742-to-lower-case) |
+| [0763-special-binary-string](https://github.com/ISankrityayan/Code/tree/master/0763-special-binary-string) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/ISankrityayan/Code/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0878-shifting-letters](https://github.com/ISankrityayan/Code/tree/master/0878-shifting-letters) |
 | [0961-long-pressed-name](https://github.com/ISankrityayan/Code/tree/master/0961-long-pressed-name) |
@@ -592,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/ISankrityayan/Code/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/ISankrityayan/Code/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/ISankrityayan/Code/tree/master/0486-predict-the-winner) |
+| [0763-special-binary-string](https://github.com/ISankrityayan/Code/tree/master/0763-special-binary-string) |
 | [0795-k-th-symbol-in-grammar](https://github.com/ISankrityayan/Code/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/ISankrityayan/Code/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/ISankrityayan/Code/tree/master/1197-parsing-a-boolean-expression) |
