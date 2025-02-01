@@ -469,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-long-pressed-name](https://github.com/ISankrityayan/Code/tree/master/0961-long-pressed-name) |
 | [1080-camelcase-matching](https://github.com/ISankrityayan/Code/tree/master/1080-camelcase-matching) |
 | [1160-letter-tile-possibilities](https://github.com/ISankrityayan/Code/tree/master/1160-letter-tile-possibilities) |
+| [1197-parsing-a-boolean-expression](https://github.com/ISankrityayan/Code/tree/master/1197-parsing-a-boolean-expression) |
 | [1205-defanging-an-ip-address](https://github.com/ISankrityayan/Code/tree/master/1205-defanging-an-ip-address) |
 | [1321-get-equal-substrings-within-budget](https://github.com/ISankrityayan/Code/tree/master/1321-get-equal-substrings-within-budget) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/ISankrityayan/Code/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/ISankrityayan/Code/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/ISankrityayan/Code/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/ISankrityayan/Code/tree/master/0394-decode-string) |
+| [1197-parsing-a-boolean-expression](https://github.com/ISankrityayan/Code/tree/master/1197-parsing-a-boolean-expression) |
 | [2128-reverse-prefix-of-word](https://github.com/ISankrityayan/Code/tree/master/2128-reverse-prefix-of-word) |
 ## Backtracking
 |  |
@@ -592,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/ISankrityayan/Code/tree/master/0486-predict-the-winner) |
 | [0795-k-th-symbol-in-grammar](https://github.com/ISankrityayan/Code/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/ISankrityayan/Code/tree/master/1013-fibonacci-number) |
+| [1197-parsing-a-boolean-expression](https://github.com/ISankrityayan/Code/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/ISankrityayan/Code/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ISankrityayan/Code/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/ISankrityayan/Code/tree/master/2050-count-good-numbers) |
