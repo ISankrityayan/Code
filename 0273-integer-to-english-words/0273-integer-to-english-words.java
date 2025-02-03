@@ -1,46 +1,35 @@
 class Solution {
+    private static final String[] BELOW_TWENTY = {
+        "", "One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine", "Ten",
+        "Eleven", "Twelve", "Thirteen", "Fourteen", "Fifteen", "Sixteen", "Seventeen", "Eighteen", "Nineteen"
+    };
+    
+    private static final String[] TENS = {
+        "", "", "Twenty", "Thirty", "Forty", "Fifty", "Sixty", "Seventy", "Eighty", "Ninety"
+    };
+    
+    private static final String[] THOUSANDS = {"", "Thousand", "Million", "Billion"};
+
     public String numberToWords(int num) {
-        if(num==0){
-            return "Zero";
-        }
-        String[] bigString=new String[]{"Thousand","Million","Billion"};
-        String result=  numberToWordsHelper(num%1000);
-        num=num/1000;
-        if(num>0 && num%1000>0){
-            result= numberToWordsHelper(num%1000)+ "Thousand " + result;
-        }
-        num=num/1000;
-        if(num>0 && num%1000>0){
-            result=numberToWordsHelper(num%1000) + "Million " + result;
-        }
-        num=num/1000;
-        if(num>0){
-        result=numberToWordsHelper(num%1000) + "Billion " + result;
-  
+        if (num == 0) return "Zero";
+
+        String result = "";
+        int i = 0; // Index for THOUSANDS array
+
+        while (num > 0) {
+            if (num % 1000 != 0) { 
+                result = helper(num % 1000) + THOUSANDS[i] + " " + result;
+            }
+            num /= 1000;
+            i++;
         }
         return result.trim();
     }
-    public String numberToWordsHelper(int num){
-String[] digitString = new String[]{"Zero", "One", "Two", "Three", "Four","Five", "Six", "Seven", "Eight", "Nine"};
-String[] teenString = new String[]{"Ten", "Eleven", "Twelve", "Thirteen", "Fourteen", "Fifteen", "Sixteen", "Seventeen","Eighteen", "Nineteen"};
-String[] tenString = new String[]{"","","Twenty", "Thirty", "Forty", "Fifty", "Sixty", "Seventy", "Eighty", "Ninety"};
-    String result = "";
 
-    if(num>99){
-    result += digitString[num/100] + " Hundred ";  
+    private String helper(int num) {
+        if (num == 0) return "";
+        else if (num < 20) return BELOW_TWENTY[num] + " ";
+        else if (num < 100) return TENS[num / 10] + " " + helper(num % 10);
+        else return BELOW_TWENTY[num / 100] + " Hundred " + helper(num % 100);
     }
-    num=num%100;
-      if(num < 20 && num > 9){
-        result += teenString[num%10]+" ";
-    }else{
-        if(num > 19){
-            result += tenString[num/10]+" ";
-        }
-        num = num % 10;
-        if(num > 0)
-            result += digitString[num]+" ";
-    }
-    return result;
-    }
-
 }
