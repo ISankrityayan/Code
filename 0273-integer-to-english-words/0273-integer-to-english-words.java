@@ -1,35 +1,28 @@
 class Solution {
-    private static final String[] BELOW_TWENTY = {
-        "", "One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine", "Ten",
-        "Eleven", "Twelve", "Thirteen", "Fourteen", "Fifteen", "Sixteen", "Seventeen", "Eighteen", "Nineteen"
-    };
-    
-    private static final String[] TENS = {
-        "", "", "Twenty", "Thirty", "Forty", "Fifty", "Sixty", "Seventy", "Eighty", "Ninety"
-    };
-    
-    private static final String[] THOUSANDS = {"", "Thousand", "Million", "Billion"};
-
-    public String numberToWords(int num) {
-        if (num == 0) return "Zero";
-
-        String result = "";
-        int i = 0; // Index for THOUSANDS array
-
-        while (num > 0) {
-            if (num % 1000 != 0) { 
-                result = helper(num % 1000) + THOUSANDS[i] + " " + result;
+    //globally declare arrays
+    String[] ones = {"", " One", " Two", " Three", " Four", " Five", " Six", " Seven", " Eight", " Nine", " Ten", " Eleven", " Twelve", " Thirteen", " Fourteen", " Fifteen", " Sixteen", " Seventeen", " Eighteen", " Nineteen"};
+    String[] tens = {"", " Ten", " Twenty", " Thirty", " Forty", " Fifty", " Sixty", " Seventy", " Eighty", " Ninety"};
+    String[] thousands = {"", " Thousand", " Million", " Billion"};
+    //helper function
+    public String helper(int n) {
+        if (n < 20) 
+            return ones[n];
+        if (n < 100) 
+            return tens[n / 10] + helper(n % 10);
+        if (n < 1000) 
+            return helper(n / 100) + " Hundred" + helper(n % 100);
+        for (int i = 3; i >= 0; i--) {
+            if (n >= Math.pow(1000, i)) {
+                return helper((int)(n / Math.pow(1000, i))) + thousands[i] + helper((int)(n % Math.pow(1000, i)));
             }
-            num /= 1000;
-            i++;
         }
-        return result.trim();
+        return "";
     }
 
-    private String helper(int num) {
-        if (num == 0) return "";
-        else if (num < 20) return BELOW_TWENTY[num] + " ";
-        else if (num < 100) return TENS[num / 10] + " " + helper(num % 10);
-        else return BELOW_TWENTY[num / 100] + " Hundred " + helper(num % 100);
+    public String numberToWords(int num) {
+        // edge case
+        if (num == 0) 
+            return "Zero";
+        return helper(num).substring(1);
     }
 }
