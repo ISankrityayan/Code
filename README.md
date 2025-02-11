@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/ISankrityayan/Code/tree/master/1635-number-of-good-pairs) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ISankrityayan/Code/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/ISankrityayan/Code/tree/master/1885-count-number-of-homogenous-substrings) |
+| [1936-maximize-number-of-nice-divisors](https://github.com/ISankrityayan/Code/tree/master/1936-maximize-number-of-nice-divisors) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ISankrityayan/Code/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/ISankrityayan/Code/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ISankrityayan/Code/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1372-check-if-it-is-a-good-array](https://github.com/ISankrityayan/Code/tree/master/1372-check-if-it-is-a-good-array) |
 | [1585-the-kth-factor-of-n](https://github.com/ISankrityayan/Code/tree/master/1585-the-kth-factor-of-n) |
+| [1936-maximize-number-of-nice-divisors](https://github.com/ISankrityayan/Code/tree/master/1936-maximize-number-of-nice-divisors) |
 ## String Matching
 |  |
 | ------- |
@@ -601,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/ISankrityayan/Code/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/ISankrityayan/Code/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/ISankrityayan/Code/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1936-maximize-number-of-nice-divisors](https://github.com/ISankrityayan/Code/tree/master/1936-maximize-number-of-nice-divisors) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ISankrityayan/Code/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/ISankrityayan/Code/tree/master/2050-count-good-numbers) |
 ## Memoization
