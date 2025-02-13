@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/ISankrityayan/Code/tree/master/0958-sort-array-by-parity-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/ISankrityayan/Code/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/ISankrityayan/Code/tree/master/1019-squares-of-a-sorted-array) |
+| [1022-unique-paths-iii](https://github.com/ISankrityayan/Code/tree/master/1022-unique-paths-iii) |
 | [1031-add-to-array-form-of-integer](https://github.com/ISankrityayan/Code/tree/master/1031-add-to-array-form-of-integer) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ISankrityayan/Code/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1080-camelcase-matching](https://github.com/ISankrityayan/Code/tree/master/1080-camelcase-matching) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/ISankrityayan/Code/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/ISankrityayan/Code/tree/master/0898-transpose-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/ISankrityayan/Code/tree/master/0921-spiral-matrix-iii) |
+| [1022-unique-paths-iii](https://github.com/ISankrityayan/Code/tree/master/1022-unique-paths-iii) |
 | [1094-matrix-cells-in-distance-order](https://github.com/ISankrityayan/Code/tree/master/1094-matrix-cells-in-distance-order) |
 | [1331-path-with-maximum-gold](https://github.com/ISankrityayan/Code/tree/master/1331-path-with-maximum-gold) |
 | [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/ISankrityayan/Code/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0795-k-th-symbol-in-grammar](https://github.com/ISankrityayan/Code/tree/master/0795-k-th-symbol-in-grammar) |
 | [0861-flipping-an-image](https://github.com/ISankrityayan/Code/tree/master/0861-flipping-an-image) |
 | [0899-binary-gap](https://github.com/ISankrityayan/Code/tree/master/0899-binary-gap) |
+| [1022-unique-paths-iii](https://github.com/ISankrityayan/Code/tree/master/1022-unique-paths-iii) |
 | [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/ISankrityayan/Code/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ISankrityayan/Code/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/ISankrityayan/Code/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -563,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/ISankrityayan/Code/tree/master/0216-combination-sum-iii) |
 | [0401-binary-watch](https://github.com/ISankrityayan/Code/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/ISankrityayan/Code/tree/master/0494-target-sum) |
+| [1022-unique-paths-iii](https://github.com/ISankrityayan/Code/tree/master/1022-unique-paths-iii) |
 | [1160-letter-tile-possibilities](https://github.com/ISankrityayan/Code/tree/master/1160-letter-tile-possibilities) |
 | [1331-path-with-maximum-gold](https://github.com/ISankrityayan/Code/tree/master/1331-path-with-maximum-gold) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ISankrityayan/Code/tree/master/1993-sum-of-all-subset-xor-totals) |
