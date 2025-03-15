@@ -5,7 +5,7 @@ class Solution {
        HashMap<Integer,Integer>mp=new HashMap<>();
        for(int i=0;i<nums.length;i++){
         int num=nums[i];
-        int moreNeeded=target-num;
+        int moreNeeded=target-num; 
         if(mp.containsKey(moreNeeded)){
             ans[0]=mp.get(moreNeeded);
             ans[1]=i;
