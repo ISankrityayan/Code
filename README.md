@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/ISankrityayan/Code/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ISankrityayan/Code/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/ISankrityayan/Code/tree/master/0090-subsets-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ISankrityayan/Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ISankrityayan/Code/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ISankrityayan/Code/tree/master/0137-single-number-ii) |
 | [0149-max-points-on-a-line](https://github.com/ISankrityayan/Code/tree/master/0149-max-points-on-a-line) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ISankrityayan/Code/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ISankrityayan/Code/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/ISankrityayan/Code/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ISankrityayan/Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ISankrityayan/Code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/ISankrityayan/Code/tree/master/0279-perfect-squares) |
 | [0338-counting-bits](https://github.com/ISankrityayan/Code/tree/master/0338-counting-bits) |
