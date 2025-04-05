@@ -602,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/ISankrityayan/Code/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ISankrityayan/Code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0279-perfect-squares](https://github.com/ISankrityayan/Code/tree/master/0279-perfect-squares) |
 | [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/ISankrityayan/Code/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 ## Recursion
@@ -649,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ISankrityayan/Code/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ISankrityayan/Code/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ISankrityayan/Code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ISankrityayan/Code/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ISankrityayan/Code/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ISankrityayan/Code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -658,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ISankrityayan/Code/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ISankrityayan/Code/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ISankrityayan/Code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ISankrityayan/Code/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ISankrityayan/Code/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ISankrityayan/Code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -666,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ISankrityayan/Code/tree/master/0098-validate-binary-search-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ISankrityayan/Code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ISankrityayan/Code/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ISankrityayan/Code/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ISankrityayan/Code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
