@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/ISankrityayan/Code/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/ISankrityayan/Code/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ISankrityayan/Code/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/ISankrityayan/Code/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/ISankrityayan/Code/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ISankrityayan/Code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ISankrityayan/Code/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -565,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/ISankrityayan/Code/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/ISankrityayan/Code/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/ISankrityayan/Code/tree/master/0227-basic-calculator-ii) |
+| [0234-palindrome-linked-list](https://github.com/ISankrityayan/Code/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/ISankrityayan/Code/tree/master/0394-decode-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/ISankrityayan/Code/tree/master/1197-parsing-a-boolean-expression) |
 | [2128-reverse-prefix-of-word](https://github.com/ISankrityayan/Code/tree/master/2128-reverse-prefix-of-word) |
@@ -622,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/ISankrityayan/Code/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/ISankrityayan/Code/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/ISankrityayan/Code/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/ISankrityayan/Code/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ISankrityayan/Code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/ISankrityayan/Code/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/ISankrityayan/Code/tree/master/0326-power-of-three) |
@@ -654,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/ISankrityayan/Code/tree/master/0143-reorder-list) |
+| [0234-palindrome-linked-list](https://github.com/ISankrityayan/Code/tree/master/0234-palindrome-linked-list) |
 ## Tree
 |  |
 | ------- |
